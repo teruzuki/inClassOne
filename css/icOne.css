@@ -1,3 +1,61 @@
 body, html {
-  font-size: 12px;
+  font-size: 62.5%;
+  font-family: "Calibri",Georgia,Serif;
+}
+
+img{
+	left: 12px;
+	position: relative;
+
+}
+#sssection1 {
+	width:200px;
+	height:200px;
+	margin:0;     
+	border:1px;
+	color: green;
+	font-size: 1rem;
+	text-align: justify-all;
+	padding: 20px
+}
+
+#sssection2 {
+	width:200px;
+	height:200px;
+	margin:0;     
+	border:1px;
+	color: yellow;
+	font-size: 1rem;
+	text-align: left;
+	padding: 20px
+}
+
+#sssection3 {
+	width:200px;
+	height:200px;
+	margin:0;     
+	border:1px;
+	color: red;
+	font-size: 1rem;
+	text-align: left;
+	padding: 20px
+}
+
+nav ul {
+    list-style: none;
+    padding: 2;
+    text-align: left;
+}
+  
+nav ul li {
+    display: block;
+    margin: 20px;
+}
+  
+nav ul  a {
+    color: #006400;
+    font-size: 1.5rem;
+    font-style: oblique;
+
+
 }
